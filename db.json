@@ -1,35 +1,36 @@
-{
-  "posts": [
+ [
     {
-      "id": 123456,
-      "title": "Amy"
+      "id": 1,
+      "User": "Amy"
+      "Contact": "123456"
     },
     {
-      "id": 234567,
-      "title": "William"
-    },
-    
-    {
-      "id": 912367,
-      "title": "Andy"
+      "id": 2,
+      "User": "William"
+      "Contact": "234567"
     },
     
     {
-      "id": 534103,
-      "title": "Emilia"
+      "id": 3,
+      "User": "Andy"
+      "Contact": "345678"
     },
     
     {
-      "id": 129405,
-      "title": "Andrew"
+      "id": 4,
+      "User": "Emilia"
+      "Contact": "456789"
     },
     
     {
-      "id": 640239,
-      "title": "Robert"
+      "id": 5,
+      "User": "Andrew"
+      "Contact": "678912"
+    },
+    
+    {
+      "id": 6,
+      "User": "Robert"
+      "Contact": "567891"
     } 
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
