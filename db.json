@@ -1,9 +1,10 @@
  [
     {
       "id": 1,
-      "User": "Amy"
+      "User": "Amy",
       "Contact": "123456"
     },
+  
     {
       "id": 2,
       "User": "William"
@@ -12,25 +13,25 @@
     
     {
       "id": 3,
-      "User": "Andy"
+      "User": "Andy",
       "Contact": "345678"
     },
     
     {
       "id": 4,
-      "User": "Emilia"
+      "User": "Emilia",
       "Contact": "456789"
     },
     
     {
       "id": 5,
-      "User": "Andrew"
+      "User": "Andrew",
       "Contact": "678912"
     },
     
     {
       "id": 6,
-      "User": "Robert"
+      "User": "Robert",
       "Contact": "567891"
-    },
+    }
   ]
